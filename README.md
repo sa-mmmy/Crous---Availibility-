@@ -37,8 +37,9 @@ Replace the token and chat ID in config.py (or your configuration file).
 Set your city in the configuration (default: Nîmes).
 
 
-Usage
+# Usage
 
 Run the script:
-
-python notifier.py
+```sql
+python Nimes.py
+```
