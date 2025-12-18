@@ -1,8 +1,8 @@
-Telegram Availability Notifier
+# Telegram Availability Notifier
 
 A Python script that connects to a Telegram bot to notify you when there is availability in a specific city (default: Nîmes). You can easily adjust the script to monitor any city of your choice.
 
-Features
+# Features
 
 Sends real-time notifications via Telegram when availability is detected.
 
@@ -10,19 +10,21 @@ Easy configuration to track any city.
 
 Lightweight and easy to run locally or on a server.
 
-Tech Stack
+# Tech Stack
 
-Python 3.x
+Python 3.11
 
 python-telegram-bot library for Telegram integration
 
 Requests/BeautifulSoup (or other scraping libraries) for checking availability
 
-Installation
+# Installation
+```sql
 git clone https://github.com/yourusername/telegram-availability-notifier.git
 cd telegram-availability-notifier
+```
+# Install dependencies:
 
-Install dependencies:
 pip install requirements.txt
 
 Configure your Telegram bot:
