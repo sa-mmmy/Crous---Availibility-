@@ -6,7 +6,7 @@ A Python script that connects to a Telegram bot to notify you when there is avai
 
 Sends real-time notifications via Telegram when availability is detected.
 
-Easy configuration to track any city.
+Easy configuration to track any city. 
 
 Lightweight and easy to run locally or on a server.
 
